@@ -1,0 +1,10 @@
+{
+  "max_volume": 4,
+  "min_margin_minor": 1000,
+  "proposed_price_minor": [
+    2900,
+    3900,
+    4900
+  ],
+  "max_products": 3
+}

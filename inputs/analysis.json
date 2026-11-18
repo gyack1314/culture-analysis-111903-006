@@ -1,0 +1,14 @@
+{
+  "discovery": [
+    "2026-10-01",
+    "2026-10-08"
+  ],
+  "confirmation": [
+    "2026-10-09",
+    "2026-10-12"
+  ],
+  "cutoff": "2026-10-16T00:00:00+08:00",
+  "mature_days": 3,
+  "target_event": "next-show",
+  "target_day": "2026-11-20"
+}

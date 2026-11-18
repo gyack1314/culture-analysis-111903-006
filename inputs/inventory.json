@@ -1,0 +1,54 @@
+{
+  "files": [
+    {
+      "path": "actions.json",
+      "bytes": 287,
+      "sha256": "fe827c67e1bf9f913c7eab7737287cd590e952deeb1996672be90299163f76f1"
+    },
+    {
+      "path": "after_sales.parquet",
+      "bytes": 49716,
+      "sha256": "336f99654c216738c0366d9e17a94046f0f676e5affe522783118230c98f1c67",
+      "rows": 69
+    },
+    {
+      "path": "analysis.json",
+      "bytes": 254,
+      "sha256": "1cdc651d9e74279fd3dfafff614a4bfb3e4de954933d445bd83f454922e32d55"
+    },
+    {
+      "path": "availability.parquet",
+      "bytes": 52956,
+      "sha256": "5d02c01c1e077c236183c79a73ee6f5b7d929cc2e46735608da2a0cd2e99e935",
+      "rows": 144
+    },
+    {
+      "path": "catalog.parquet",
+      "bytes": 4644,
+      "sha256": "300d974192824ccb7635a21858be02ed906aeef0727bd42ae7160714b544f28e",
+      "rows": 6
+    },
+    {
+      "path": "licenses.parquet",
+      "bytes": 3263,
+      "sha256": "3c81f4dd740ef8b7fffe841ed358099179a16907514473bf4afc87f7addbb9ef",
+      "rows": 6
+    },
+    {
+      "path": "lines.parquet",
+      "bytes": 1495713,
+      "sha256": "2900d02fcbf2f52ee053dc912bca813b10d023a869bc53b53063b252506dae15",
+      "rows": 1155
+    },
+    {
+      "path": "packaging.json",
+      "bytes": 141,
+      "sha256": "94080faaac311eda4221abf6bdfbf8e47ad9ffa53221df3f155d3b7a51221c80"
+    },
+    {
+      "path": "seed.json",
+      "bytes": 490415,
+      "sha256": "676b675b390ef16645d7eb7cab1b30769c2c92dff5467d16a2a336f49c651d34"
+    }
+  ]
+}

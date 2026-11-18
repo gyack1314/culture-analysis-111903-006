@@ -1,0 +1,16 @@
+[
+  {
+    "step": 1,
+    "op": "late_return",
+    "order": "O0-north-0",
+    "line": "X1",
+    "quantity": 1,
+    "known_at": "2026-10-17T00:00:00+08:00"
+  },
+  {
+    "step": 2,
+    "op": "catalog_change",
+    "product": "A2",
+    "substitute_group": "S-A-confirmed"
+  }
+]
