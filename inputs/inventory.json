@@ -29,6 +29,12 @@
       "rows": 6
     },
     {
+      "path": "household_groups.parquet",
+      "bytes": 3806,
+      "sha256": "b9f64e1b0116be3fcb94efd4ecf60a27a37ae60c0afc13efb3b3de6011aaaf6d",
+      "rows": 9
+    },
+    {
       "path": "licenses.parquet",
       "bytes": 3263,
       "sha256": "3c81f4dd740ef8b7fffe841ed358099179a16907514473bf4afc87f7addbb9ef",
@@ -47,8 +53,8 @@
     },
     {
       "path": "seed.json",
-      "bytes": 490415,
-      "sha256": "676b675b390ef16645d7eb7cab1b30769c2c92dff5467d16a2a336f49c651d34"
+      "bytes": 491535,
+      "sha256": "b187f010ea8eaccce4197fb5a0adb8fa66542fddbb99a8bebc72e3c3a7a2a87c"
     }
   ]
 }

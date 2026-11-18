@@ -18914,5 +18914,52 @@
       "valid_to": "2026-12-01",
       "combinable": true
     }
+  ],
+  "household_groups": [
+    {
+      "household": "H0",
+      "group": "visiting_group",
+      "known_at": "2026-09-30T00:00:00+08:00"
+    },
+    {
+      "household": "H1",
+      "group": "local_family",
+      "known_at": "2026-09-30T00:00:00+08:00"
+    },
+    {
+      "household": "H2",
+      "group": "visiting_group",
+      "known_at": "2026-09-30T00:00:00+08:00"
+    },
+    {
+      "household": "H3",
+      "group": "local_family",
+      "known_at": "2026-09-30T00:00:00+08:00"
+    },
+    {
+      "household": "H4",
+      "group": "visiting_group",
+      "known_at": "2026-09-30T00:00:00+08:00"
+    },
+    {
+      "household": "H5",
+      "group": "local_family",
+      "known_at": "2026-09-30T00:00:00+08:00"
+    },
+    {
+      "household": "H6",
+      "group": "visiting_group",
+      "known_at": "2026-09-30T00:00:00+08:00"
+    },
+    {
+      "household": "H7",
+      "group": "local_family",
+      "known_at": "2026-09-30T00:00:00+08:00"
+    },
+    {
+      "household": "H8",
+      "group": "visiting_group",
+      "known_at": "2026-09-30T00:00:00+08:00"
+    }
   ]
 }
